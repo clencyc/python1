@@ -10,4 +10,7 @@ num4 = 25
 
 result = num1 * num4
 print(result)
-
+num5 = 28
+num6 = 3
+result = num5 + num6
+print(result)
