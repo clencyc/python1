@@ -6,3 +6,7 @@ myset = {"Ralph", "Reagan", "Alcott", "Chanell"}
 myset.add("Yvonne")
 myset.add("Amani")
 print(myset)
+myset = {"Ralph", "Reagan", "Alcott", "Chanell"}
+myset.add("Yvonne")
+myset.add("Amani")
+print(myset)
