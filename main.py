@@ -14,3 +14,7 @@ num5 = 28
 num6 = 3
 result = num5 + num6
 print(result)
+num7 = 300
+num8 = 400
+result = num7 + num8
+print(result)
