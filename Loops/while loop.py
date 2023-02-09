@@ -4,5 +4,6 @@
 number = 1
 while number < 101 :
     print(number)
-    number+=20
+    number+=1
+
 
