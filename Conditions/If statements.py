@@ -13,4 +13,3 @@ elif dial == 5:
     print("Lipa mdogo")
 elif dial == 6:
     print("More")
-
