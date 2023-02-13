@@ -3,3 +3,5 @@ def displayname(firstname):
 
     print(firstname  +  name2)
 displayname("John")
+
+print("Hello World")
