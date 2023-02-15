@@ -13,3 +13,5 @@ elif dial == 5:
     print("Lipa mdogo")
 elif dial == 6:
     print("More")
+else:
+    print("this number is not in range")
